@@ -1,2 +1,2 @@
 # MCToolkit-Web-API
-The repository used to store files for MCToolkit
+The repository we use to store files for MCToolkit
