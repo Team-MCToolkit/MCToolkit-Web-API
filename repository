@@ -2,13 +2,12 @@
   "latestMajor": "2021.3",
   "releases": {
     "2021.3": {
-      "latestBuild": "03117",
+      "latestBuild": "06846",
       "builds": [
         {
-          "build": "03117",
+          "build": "06846",
           "changelog": [
             "Added 3 APIs to MCToolkit’s core: Curios, JEI and Patchouli. (the aim is not to automate everything, but at least to add them by default in MCToolkit.)",
-            "Added a blockly editor for items to handle tooltips.",
             "Added a blockly editor for items to handle tooltips.",
             "Added a resource pack generator.",
             "Added an option for pressure plates to choose between everything and mobs for the sensitivity.",
