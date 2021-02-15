@@ -1,0 +1,43 @@
+{
+  "latestMajor": "2020.5",
+  "releases": {
+    "2021.1": {
+      "latestBuild": "03117",
+      "builds": [
+        {
+          "build": "03117",
+          "changelog": [
+            "Added 3 APIs to MCToolkit’s core: Curios, JEI and Patchouli. (the aim is not to automate everything, but at least to add them by default in MCToolkit.)",
+            "Added a blockly editor for items to handle tooltips.",
+            "Added a blockly editor for items to handle tooltips.",
+            "Added a resource pack generator.",
+            "Added an option for pressure plates to choose between everything and mobs for the sensitivity.",
+            "Added better Random Number Generator procedures.",
+            "Added custom directories for sounds and textures.",
+            "Added dispenser actions to items.",
+            "Added new block bases: (Stone button, pressure plate, cake, lever, slime and honey block).",
+            "Added new building tool pack maker",
+            "Added new player procedure block: Open the ender chest inventory.",
+            "Added new texture categories: entities and paintings (Texture has to be re-selected for all paintings).",
+            "Added new variable type blockstate to both local and global variables.",
+            "Added options for tooltips when pressing SHIFT and when pressing CTRL/CMD: (Armor, block, food, music disc, plant, ranged item and tool).",
+            "Added parameters to use custom sounds for blocks (break, step, place, hit and fall).",
+            "Added possibility to create custom pack maker tools in plugins.",
+            "Added redstone options (Ability for blocks to output redstone signal and to select its power).",
+            "Added support for Time variable and dependency.",
+            "Changed fluid icon to a new icon.",
+            "Grid settings of GUI mod elements are now saved.",
+            "Improved GUI editor (HUD elements are now shown in Minecraft view).",
+            "Modified splash screen.",
+            "New icon for Potion Effect mod element.",
+            "Potion Effect now has an effect icon as a preview.",
+            "Potions have been moved to a new Potion Item mod element.",
+            "Removed “What’s next” option and functionality when creating new Workspace.",
+            "Renamed original Potion element as “Potion Effect”.",
+            "Tooltips can now be translated. (Armor, block, food, music disc, plant, ranged item and tool). "
+          ]
+        }
+      ]
+    }
+  }
+}
